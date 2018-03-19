@@ -1,0 +1,16 @@
+{
+    "go.buildOnSave": true,
+    "go.lintOnSave": true,
+    "go.vetOnSave": true,
+    "go.buildFlags": [],
+    "go.lintFlags": [],
+    "go.vetFlags": [],
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.formatOnSave": true,
+    "go.formatTool": "goreturns",
+    "go.goroot": "/home/kiran/programming/golang/go",
+    "go.gopath": "/home/kiran/programming/golang/coding",
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Atom One Dark"
+}
